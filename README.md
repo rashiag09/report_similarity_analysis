@@ -11,5 +11,3 @@ The methodology follows six main steps:
 6. Human Checking: Verifying the effectiveness of the method by sampling and human validation.
 
 The results are presented through a webpage developed using Gradio where users input a file name, file path, and the number of similar documents they want to generate. The output displays documents similar to the inputted file name, along with a short abstract and the pdf name for each output file.
-
-![Uploading image.png…]()
