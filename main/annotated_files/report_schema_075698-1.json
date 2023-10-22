@@ -1,0 +1,152 @@
+{"info": {"year":2023,"version":"0.1.0","description":"","url":"","date_created":1694940945908},"categories": [
+  {
+    "id": 1,
+    "datatorch_id": "a58c9f7b-128a-4369-a8be-1fccc9f6d93c",
+    "name": "report_title",
+    "supercategory": null
+  },
+  {
+    "id": 2,
+    "datatorch_id": "65b7e2f8-91f2-4486-9b8a-0d48a7a7321b",
+    "name": "form",
+    "supercategory": null
+  },
+  {
+    "id": 3,
+    "datatorch_id": "8e9708fa-02e1-40f3-a10c-08fe206b92e8",
+    "name": "other",
+    "supercategory": null
+  },
+  {
+    "id": 4,
+    "datatorch_id": "d87d6707-3579-43aa-86db-1d34d000a886",
+    "name": "title",
+    "supercategory": null
+  },
+  {
+    "id": 5,
+    "datatorch_id": "ee2a5611-60b6-4b54-aac0-ad7b4f930212",
+    "name": "paragraph",
+    "supercategory": null
+  },
+  {
+    "id": 6,
+    "datatorch_id": "f3fefe4d-01af-4807-aa7f-52d21da5cab4",
+    "name": "section",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 7,
+    "datatorch_id": "67d1015d-4c75-48e5-b167-8dfe9c8b5ed2",
+    "name": "abstract",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 8,
+    "datatorch_id": "35801193-30b1-4b58-b1ae-d456e9048f41",
+    "name": "summary",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 9,
+    "datatorch_id": "b1e952e0-857d-419a-b68f-7fb2cecedaaa",
+    "name": "subsection",
+    "supercategory": "f3fefe4d-01af-4807-aa7f-52d21da5cab4"
+  },
+  {
+    "id": 10,
+    "datatorch_id": "f2a8f2ac-817c-4720-84ba-ac1adcf92b8e",
+    "name": "subsubsection",
+    "supercategory": "b1e952e0-857d-419a-b68f-7fb2cecedaaa"
+  },
+  {
+    "id": 11,
+    "datatorch_id": "2d44a9a5-b86e-421f-863d-94dccbbedd10",
+    "name": "subsubsubsection",
+    "supercategory": "f2a8f2ac-817c-4720-84ba-ac1adcf92b8e"
+  },
+  {
+    "id": 12,
+    "datatorch_id": "37ee5d77-0540-42c7-94ca-e9fa3bfdfa7f",
+    "name": "subsubsubsubsubsection",
+    "supercategory": "2d44a9a5-b86e-421f-863d-94dccbbedd10"
+  },
+  {
+    "id": 13,
+    "datatorch_id": "e681a7b5-ae96-47f2-947b-b05006ca4f30",
+    "name": "table_of_contents",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 14,
+    "datatorch_id": "eedfcf06-fab2-4f59-a75f-588f7a4e5750",
+    "name": "list_of_figures",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 15,
+    "datatorch_id": "edff8488-7f78-4863-a53c-93772e47c016",
+    "name": "list_of_tables",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 16,
+    "datatorch_id": "8d8b8046-fd77-47bd-942c-899ada2793ad",
+    "name": "figure",
+    "supercategory": "eedfcf06-fab2-4f59-a75f-588f7a4e5750"
+  },
+  {
+    "id": 17,
+    "datatorch_id": "0c95a20c-eb74-4e44-b231-87d76b8a3444",
+    "name": "figure_caption",
+    "supercategory": "8d8b8046-fd77-47bd-942c-899ada2793ad"
+  },
+  {
+    "id": 18,
+    "datatorch_id": "fe9ce847-585f-40c3-af48-d26b58f80553",
+    "name": "table",
+    "supercategory": "edff8488-7f78-4863-a53c-93772e47c016"
+  },
+  {
+    "id": 19,
+    "datatorch_id": "e9353357-f6d9-4c9e-b2e9-35d1e9465248",
+    "name": "table_caption",
+    "supercategory": "fe9ce847-585f-40c3-af48-d26b58f80553"
+  },
+  {
+    "id": 20,
+    "datatorch_id": "2907375b-f1be-48f1-9693-1cb6395427b5",
+    "name": "cross",
+    "supercategory": null
+  },
+  {
+    "id": 21,
+    "datatorch_id": "ecaab6e8-c031-4d54-98e0-01063702dd72",
+    "name": "form_title",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 22,
+    "datatorch_id": "60cd2639-03fb-4447-b807-a095f0c36307",
+    "name": "form_body",
+    "supercategory": "65b7e2f8-91f2-4486-9b8a-0d48a7a7321b"
+  },
+  {
+    "id": 23,
+    "datatorch_id": "829d99b4-97be-4060-a6d7-9ea28022bc3f",
+    "name": "list",
+    "supercategory": null
+  },
+  {
+    "id": 24,
+    "datatorch_id": "518862f4-0657-4044-9593-cd3d21bd6204",
+    "name": "appendix_list",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  },
+  {
+    "id": 25,
+    "datatorch_id": "558ef1cc-1efa-413c-b070-dd66ae9b4dda",
+    "name": "references",
+    "supercategory": "d87d6707-3579-43aa-86db-1d34d000a886"
+  }
+],"images": []}
