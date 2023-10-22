@@ -1,0 +1,287 @@
+{"info": {"year":2023,"version":"0.1.0","description":"","url":"","date_created":1695134151401},"categories": [
+  {
+    "id": 1,
+    "datatorch_id": "23055ed1-9b79-4a2a-8495-65ea9e4a0aad",
+    "name": "references",
+    "supercategory": null
+  },
+  {
+    "id": 2,
+    "datatorch_id": "7b04cd9c-34c4-4d8a-8522-2ebaf99821e4",
+    "name": "appendix_list",
+    "supercategory": null
+  },
+  {
+    "id": 3,
+    "datatorch_id": "e81321ff-63b0-4233-b9d1-b49f716d889a",
+    "name": "list",
+    "supercategory": null
+  },
+  {
+    "id": 4,
+    "datatorch_id": "e70cc9ce-f560-4cfe-8d0c-c05c94c0fb44",
+    "name": "form_body",
+    "supercategory": null
+  },
+  {
+    "id": 5,
+    "datatorch_id": "11406cb4-3d31-418e-a47e-5f98c6fcfd8b",
+    "name": "form_title",
+    "supercategory": null
+  },
+  {
+    "id": 6,
+    "datatorch_id": "003e0440-2060-4b01-bde5-6c0a2932c30a",
+    "name": "cross",
+    "supercategory": null
+  },
+  {
+    "id": 7,
+    "datatorch_id": "db200cf9-cb72-4309-8190-df7dc830be58",
+    "name": "table_caption",
+    "supercategory": "b9a2c428-ee05-446d-af56-6c79bbb608c3"
+  },
+  {
+    "id": 8,
+    "datatorch_id": "b9a2c428-ee05-446d-af56-6c79bbb608c3",
+    "name": "table",
+    "supercategory": null
+  },
+  {
+    "id": 9,
+    "datatorch_id": "5ec27ea7-4608-42c4-b25f-71f885d0cca2",
+    "name": "figure_caption",
+    "supercategory": "c4b559b2-16fc-4598-b6cf-c9e5599cbf6f"
+  },
+  {
+    "id": 10,
+    "datatorch_id": "c4b559b2-16fc-4598-b6cf-c9e5599cbf6f",
+    "name": "figure",
+    "supercategory": null
+  },
+  {
+    "id": 11,
+    "datatorch_id": "b50cfd9d-9a95-4bf8-8d2e-69395dceee25",
+    "name": "list_of_tables",
+    "supercategory": null
+  },
+  {
+    "id": 12,
+    "datatorch_id": "bb172fda-f859-422b-ad60-86231c649fce",
+    "name": "list_of_figures",
+    "supercategory": null
+  },
+  {
+    "id": 13,
+    "datatorch_id": "39e9b039-8e63-44fd-ae64-57b01718ad15",
+    "name": "table_of_contents",
+    "supercategory": null
+  },
+  {
+    "id": 14,
+    "datatorch_id": "ceb000c6-4c75-49fd-9287-02e59cf9ca89",
+    "name": "subsubsubsubsubsection",
+    "supercategory": "39617a41-14d4-4777-9a71-2221b8b7f07f"
+  },
+  {
+    "id": 15,
+    "datatorch_id": "39617a41-14d4-4777-9a71-2221b8b7f07f",
+    "name": "subsubsubsubsubsection",
+    "supercategory": "13139a36-4a3c-4eb3-8c14-a8cb11e005b1"
+  },
+  {
+    "id": 16,
+    "datatorch_id": "13139a36-4a3c-4eb3-8c14-a8cb11e005b1",
+    "name": "subsubsubsection",
+    "supercategory": "fa44f11b-18c5-41ca-af91-f3e65162fc34"
+  },
+  {
+    "id": 17,
+    "datatorch_id": "fa44f11b-18c5-41ca-af91-f3e65162fc34",
+    "name": "subsubsection",
+    "supercategory": "11855a95-4ee1-4262-80a6-6cffa1207e22"
+  },
+  {
+    "id": 18,
+    "datatorch_id": "11855a95-4ee1-4262-80a6-6cffa1207e22",
+    "name": "subsection",
+    "supercategory": "4d817a45-be8a-4548-8b0f-c0cdea1b4352"
+  },
+  {
+    "id": 19,
+    "datatorch_id": "a70a60cc-40c3-41a2-9728-b27f0f844c0c",
+    "name": "summary",
+    "supercategory": null
+  },
+  {
+    "id": 20,
+    "datatorch_id": "2b197dbb-8498-4014-9490-0e634be92462",
+    "name": "abstract",
+    "supercategory": null
+  },
+  {
+    "id": 21,
+    "datatorch_id": "4d817a45-be8a-4548-8b0f-c0cdea1b4352",
+    "name": "section",
+    "supercategory": null
+  },
+  {
+    "id": 22,
+    "datatorch_id": "12f3881d-4d87-456a-a823-d7e515fcfa08",
+    "name": "paragraph",
+    "supercategory": null
+  },
+  {
+    "id": 23,
+    "datatorch_id": "23f66e75-9ad4-4c1a-a9a7-b4fde3a76417",
+    "name": "title",
+    "supercategory": null
+  },
+  {
+    "id": 24,
+    "datatorch_id": "a1941a73-cd0a-4d5b-af68-78d61f5e6bd2",
+    "name": "other",
+    "supercategory": null
+  },
+  {
+    "id": 25,
+    "datatorch_id": "b64d1c5c-1a49-4eb1-90d9-d5773beec434",
+    "name": "form",
+    "supercategory": null
+  },
+  {
+    "id": 26,
+    "datatorch_id": "799f4aac-8ec8-414e-86a5-05116dbaf38c",
+    "name": "report_title",
+    "supercategory": null
+  }
+],"images": [
+  {
+    "id": 1,
+    "datatorch_id": "19a5ea03-21ff-47ae-b666-3d7e4015740c",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0000.png",
+    "width": 2550,
+    "height": 3300,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0000.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:40.230Z"
+  },
+  {
+    "id": 2,
+    "datatorch_id": "5e615a2e-7a30-4736-95d6-29e2ee2b5f90",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0003.png",
+    "width": 2550,
+    "height": 3300,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0003.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:39.792Z"
+  },
+  {
+    "id": 3,
+    "datatorch_id": "69c9bf26-bb82-4801-ac22-bcb3d79bfa6f",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0005.png",
+    "width": 2550,
+    "height": 3300,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0005.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:41.402Z"
+  },
+  {
+    "id": 4,
+    "datatorch_id": "cf97a85b-0ad1-4a86-8408-8241407ba1e9",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0006.png",
+    "width": 3508,
+    "height": 2480,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0006.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:45.386Z"
+  },
+  {
+    "id": 5,
+    "datatorch_id": "da922b3f-a0d7-4570-919f-6e90e620da5f",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0009.png",
+    "width": 2480,
+    "height": 3506,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0009.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:40.433Z"
+  },
+  {
+    "id": 6,
+    "datatorch_id": "b97267c5-ce28-41ff-a56f-3361d4c8dbb6",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0008.png",
+    "width": 2550,
+    "height": 3300,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0008.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:39.480Z"
+  },
+  {
+    "id": 7,
+    "datatorch_id": "af900f95-01df-48ff-ab27-24f7bc27eb74",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0007.png",
+    "width": 3508,
+    "height": 2480,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0007.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:45.371Z"
+  },
+  {
+    "id": 8,
+    "datatorch_id": "99182fa0-24f1-415e-a54e-2c6750211137",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0001.png",
+    "width": 2550,
+    "height": 3300,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0001.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:39.511Z"
+  },
+  {
+    "id": 9,
+    "datatorch_id": "5615d679-2ffb-458d-9f9a-1ed689bf468e",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0002.png",
+    "width": 2550,
+    "height": 3300,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0002.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:40.261Z"
+  },
+  {
+    "id": 10,
+    "datatorch_id": "3ed3c5b4-0f07-4995-be4c-ad59eece614e",
+    "storage_id": "b030e81e-0259-4f73-84ac-33ab52ab8d91",
+    "path": "a079472_mm p58_1345 surrender technical report 2008_12740146-0004.png",
+    "width": 2550,
+    "height": 3300,
+    "file_name": "a079472_mm p58_1345 surrender technical report 2008_12740146-0004.png",
+    "metadata": {},
+    "date_captured": "2023-09-18T15:02:39.995Z"
+  }
+],"annotations": [
+{"id":1,"datatorch_id":"001051c7-dcc9-43a8-a9e5-751b41bc9c5f","image_id":2,"category_id":13,"segmentation":[[187.382934404456,281.958325842152,1582.7090213609758,281.958325842152,1582.7090213609758,784.13223888563,187.382934404456,784.13223888563]],"area":700696.36,"bbox":[187.382934404456,281.958325842152,1395.32608695652,502.173913043478],"iscrowd":0,"metadata":{}},
+{"id":2,"datatorch_id":"026a809f-f85e-49c8-8de7-c506ad4afa5e","image_id":1,"category_id":24,"segmentation":[[477.926412665326,310.653978016065,2088.469890926196,310.653978016065,2088.469890926196,1167.9365867117172,477.926412665326,1167.9365867117172]],"area":1380690.91,"bbox":[477.926412665326,310.653978016065,1610.54347826087,857.282608695652],"iscrowd":0,"metadata":{}},
+{"id":3,"datatorch_id":"087bcaac-9e75-44ab-91cb-56a5e2882bb3","image_id":3,"category_id":21,"segmentation":[[241.187282230543,794.893108450848,969.339456143587,794.893108450848,969.339456143587,898.914847581283,241.187282230543,898.914847581283]],"area":75743.66,"bbox":[241.187282230543,794.893108450848,728.152173913044,104.021739130435],"iscrowd":0,"metadata":{}},
+{"id":4,"datatorch_id":"0bceb2dd-297f-483f-ba6e-56123a1a3ae1","image_id":10,"category_id":12,"segmentation":[[255.5351083175,310.653978016065,1686.7307604914101,310.653978016065,1686.7307604914101,701.63223888563,255.5351083175,701.63223888563]],"area":559566.39,"bbox":[255.5351083175,310.653978016065,1431.19565217391,390.978260869565],"iscrowd":0,"metadata":{}},
+{"id":5,"datatorch_id":"14ca70c3-b494-4e7f-a099-52b653688595","image_id":8,"category_id":19,"segmentation":[[280.643803969673,299.893108450848,581.9481517957599,299.893108450848,581.9481517957599,371.6322388856306,280.643803969673,371.6322388856306]],"area":21615.31,"bbox":[280.643803969673,299.893108450848,301.304347826087,71.7391304347826],"iscrowd":0,"metadata":{}},
+{"id":6,"datatorch_id":"30e440a7-6c58-41de-93c6-bc9239d14d57","image_id":8,"category_id":22,"segmentation":[[268.587644549384,406.704702653747,2308.669166288514,406.704702653747,2308.669166288514,792.800717146501,268.587644549384,792.800717146501]],"area":787667.34,"bbox":[268.587644549384,406.704702653747,2040.08152173913,386.096014492754],"iscrowd":0,"metadata":{}},
+{"id":7,"datatorch_id":"31bf9243-3145-4fdb-88bf-e3f0d50fe7e8","image_id":7,"category_id":10,"segmentation":[[293.737035288935,43.9115365749186,3211.5627048541546,43.9115365749186,3211.5627048541546,2425.1255887488287,293.737035288935,2425.1255887488287]],"area":6947967.49,"bbox":[293.737035288935,43.9115365749186,2917.82566956522,2381.21405217391],"iscrowd":0,"metadata":{}},
+{"id":8,"datatorch_id":"492123a3-4e43-47bc-af87-66860beea639","image_id":6,"category_id":2,"segmentation":[[847.382934404456,1056.7409345378,1701.0785865783691,1056.7409345378,1701.0785865783691,1505.110499755191,847.382934404456,1505.110499755191]],"area":382771.15,"bbox":[847.382934404456,1056.7409345378,853.695652173913,448.369565217391],"iscrowd":0,"metadata":{}},
+{"id":9,"datatorch_id":"52646b04-5299-400b-9c9c-2fbb9d7caccd","image_id":3,"category_id":21,"segmentation":[[273.469890926195,264.023543233457,865.317717013151,264.023543233457,865.317717013151,368.045282363892,273.469890926195,368.045282363892]],"area":61565.04,"bbox":[273.469890926195,264.023543233457,591.847826086956,104.021739130435],"iscrowd":0,"metadata":{}},
+{"id":10,"datatorch_id":"55f0eaac-45b8-440d-a8bc-428954876ab4","image_id":5,"category_id":10,"segmentation":[[198.815349993499,223.341969423709,2350.051219558719,223.341969423709,2350.051219558719,2471.755012901969,198.815349993499,2471.755012901969]],"area":4836866.79,"bbox":[198.815349993499,223.341969423709,2151.23586956522,2248.41304347826],"iscrowd":0,"metadata":{}},
+{"id":11,"datatorch_id":"641798ad-07b8-467b-ace9-3ac38d04f2f6","image_id":1,"category_id":24,"segmentation":[[703.904673534891,1942.71919540737,1880.426412665331,1942.71919540737,1880.426412665331,2419.784412798674,703.904673534891,2419.784412798674]],"area":561277.6,"bbox":[703.904673534891,1942.71919540737,1176.52173913044,477.065217391304],"iscrowd":0,"metadata":{}},
+{"id":12,"datatorch_id":"648ec39f-d659-45f2-ab2e-037524508b85","image_id":1,"category_id":5,"segmentation":[[574.774238752282,1279.13223888563,1991.6220648392418,1279.13223888563,1991.6220648392418,1817.1757171465,574.774238752282,1817.1757171465]],"area":762325.73,"bbox":[574.774238752282,1279.13223888563,1416.84782608696,538.04347826087],"iscrowd":0,"metadata":{}},
+{"id":13,"datatorch_id":"af38d9ea-1334-41cb-8948-77e2776f8eb3","image_id":3,"category_id":22,"segmentation":[[266.295977882717,411.088760624761,2278.578586578367,411.088760624761,2278.578586578367,730.3278910595441,266.295977882717,730.3278910595441]],"area":642399.35,"bbox":[266.295977882717,411.088760624761,2012.28260869565,319.239130434783],"iscrowd":0,"metadata":{}},
+{"id":14,"datatorch_id":"c47aabaa-b464-499d-8853-aaefce56572c","image_id":3,"category_id":18,"segmentation":[[277.056847447934,938.371369320413,750.535108317499,938.371369320413,750.535108317499,1013.6974562769346,277.056847447934,1013.6974562769346]],"area":35665.26,"bbox":[277.056847447934,938.371369320413,473.478260869565,75.3260869565216],"iscrowd":0,"metadata":{}},
+{"id":15,"datatorch_id":"c9e9198f-44bd-485f-839f-313f47f23002","image_id":9,"category_id":8,"segmentation":[[207.709021360978,272.293470769688,2180.535108317498,272.293470769688,2180.535108317498,2919.467383813168,207.709021360978,2919.467383813168]],"area":5222413.75,"bbox":[207.709021360978,272.293470769688,1972.82608695652,2647.17391304348],"iscrowd":0,"metadata":{}},
+{"id":16,"datatorch_id":"cfbba573-9033-44f4-93a2-4d85c69b34fc","image_id":3,"category_id":22,"segmentation":[[293.081907834408,1053.73519782283,2285.829014998728,1053.73519782283,2285.829014998728,1776.785656760028,293.081907834408,1776.785656760028]],"area":1440856.71,"bbox":[293.081907834408,1053.73519782283,1992.74710716432,723.050458937198],"iscrowd":0,"metadata":{}},
+{"id":17,"datatorch_id":"ff9da792-6849-4342-8051-e1c7562a625d","image_id":4,"category_id":10,"segmentation":[[284.232149217008,32.481408851462,3202.0060622604883,32.481408851462,3202.0060622604883,2429.4553218949422,284.232149217008,2429.4553218949422]],"area":6993827.95,"bbox":[284.232149217008,32.481408851462,2917.77391304348,2396.97391304348],"iscrowd":0,"metadata":{}}
+]}

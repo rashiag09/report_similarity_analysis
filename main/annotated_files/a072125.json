@@ -1,0 +1,158 @@
+{"info": {"year":2023,"version":"0.1.0","description":"","url":"","date_created":1695180910570},"categories": [
+  {
+    "id": 1,
+    "datatorch_id": "efdc34be-7bc8-40e6-a7ac-743c961d5b0e",
+    "name": "other",
+    "supercategory": null
+  },
+  {
+    "id": 2,
+    "datatorch_id": "98245cc4-3f97-4a16-8793-42b1f206b1ae",
+    "name": "form",
+    "supercategory": null
+  },
+  {
+    "id": 3,
+    "datatorch_id": "bac47c6d-1482-4149-b2f4-48ae401b6fce",
+    "name": "report_title",
+    "supercategory": null
+  },
+  {
+    "id": 4,
+    "datatorch_id": "f67b4326-b7f3-4891-a799-9e158f3f29a3",
+    "name": "references",
+    "supercategory": null
+  },
+  {
+    "id": 5,
+    "datatorch_id": "28540ac5-369f-447d-8dc0-6c623bdeded1",
+    "name": "appendix_list",
+    "supercategory": null
+  },
+  {
+    "id": 6,
+    "datatorch_id": "432d43ae-9402-465b-8bfa-08b71e3f6e70",
+    "name": "list",
+    "supercategory": null
+  },
+  {
+    "id": 7,
+    "datatorch_id": "866cde06-4b95-4b78-9e9d-615eb63f3b30",
+    "name": "form_body",
+    "supercategory": null
+  },
+  {
+    "id": 8,
+    "datatorch_id": "5c08d4fb-994f-42f5-8a08-eff81cd89470",
+    "name": "form_title",
+    "supercategory": null
+  },
+  {
+    "id": 9,
+    "datatorch_id": "7b220ed9-4839-4860-913e-e54f2b08ed1e",
+    "name": "cross",
+    "supercategory": null
+  },
+  {
+    "id": 10,
+    "datatorch_id": "bedfd226-54a1-411d-88c2-e513cc41e676",
+    "name": "table_caption",
+    "supercategory": null
+  },
+  {
+    "id": 11,
+    "datatorch_id": "3a69775c-e544-484e-9882-ad16eb2d72de",
+    "name": "table",
+    "supercategory": null
+  },
+  {
+    "id": 12,
+    "datatorch_id": "c5dfcaed-726f-42cd-8d24-72c5d6ed4f33",
+    "name": "figure_caption",
+    "supercategory": null
+  },
+  {
+    "id": 13,
+    "datatorch_id": "3f471323-e8c5-4b39-989f-cf5be1aec0f9",
+    "name": "figure",
+    "supercategory": null
+  },
+  {
+    "id": 14,
+    "datatorch_id": "99fb551f-c3d7-44ee-bfe4-335664818c3a",
+    "name": "list_of_tables",
+    "supercategory": null
+  },
+  {
+    "id": 15,
+    "datatorch_id": "d21d3657-a407-44b4-95f4-2f3d6302b266",
+    "name": "list_of_figures",
+    "supercategory": null
+  },
+  {
+    "id": 16,
+    "datatorch_id": "ee631f60-9883-4932-8f12-c50dd827cff1",
+    "name": "table_of_contents",
+    "supercategory": null
+  },
+  {
+    "id": 17,
+    "datatorch_id": "01396395-4edf-4a64-aee8-3045d83f9f59",
+    "name": "subsubsubsubsection",
+    "supercategory": null
+  },
+  {
+    "id": 18,
+    "datatorch_id": "60279c59-c020-4f1b-8221-132da3381de0",
+    "name": "subsubsubsection",
+    "supercategory": null
+  },
+  {
+    "id": 19,
+    "datatorch_id": "10a9f994-272f-449d-a0df-80b9119bc1d1",
+    "name": "subsubsection",
+    "supercategory": null
+  },
+  {
+    "id": 20,
+    "datatorch_id": "91510100-a731-4362-93ef-527524a170ce",
+    "name": "subsubsection",
+    "supercategory": null
+  },
+  {
+    "id": 21,
+    "datatorch_id": "b70e14c2-0849-4366-92ab-9a9a19a43234",
+    "name": "subsection",
+    "supercategory": null
+  },
+  {
+    "id": 22,
+    "datatorch_id": "553058cd-78a1-4549-bf72-7e47c9a279a7",
+    "name": "summary",
+    "supercategory": null
+  },
+  {
+    "id": 23,
+    "datatorch_id": "7ee54f92-1d68-40d6-9662-ee8721ea0609",
+    "name": "abstract",
+    "supercategory": null
+  },
+  {
+    "id": 24,
+    "datatorch_id": "e5aba03c-0aa5-4e2d-8318-1070c9c8cbbb",
+    "name": "section",
+    "supercategory": null
+  },
+  {
+    "id": 25,
+    "datatorch_id": "39ef7a9d-1162-4ae4-8624-f78005de7a54",
+    "name": "paragraph",
+    "supercategory": null
+  },
+  {
+    "id": 26,
+    "datatorch_id": "303bd345-80a9-4705-bb6e-cbb51b49d623",
+    "name": "title",
+    "supercategory": null
+  }
+],"images": []}
