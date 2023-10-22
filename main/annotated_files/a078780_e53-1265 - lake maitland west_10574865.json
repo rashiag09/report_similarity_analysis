@@ -1,0 +1,347 @@
+{"info": {"year":2023,"version":"0.1.0","description":"","url":"","date_created":1694683307624},"categories": [
+  {
+    "id": 1,
+    "datatorch_id": "f78eafb3-537d-47d8-bb11-f0ec530b6ff2",
+    "name": "report_title",
+    "supercategory": null
+  },
+  {
+    "id": 2,
+    "datatorch_id": "37671155-f749-4b19-a8b4-de01bacc16d5",
+    "name": "form",
+    "supercategory": null
+  },
+  {
+    "id": 3,
+    "datatorch_id": "66c08801-8b8f-4668-90ce-4ec97989a8b2",
+    "name": "other",
+    "supercategory": null
+  },
+  {
+    "id": 4,
+    "datatorch_id": "6ecfe82f-124a-42ba-9962-1af289bfa7e6",
+    "name": "title",
+    "supercategory": null
+  },
+  {
+    "id": 5,
+    "datatorch_id": "b7ea5771-b8d4-436e-8f14-992e2ae268ca",
+    "name": "paragraph",
+    "supercategory": null
+  },
+  {
+    "id": 6,
+    "datatorch_id": "f49d3973-196f-469b-8766-84d8b0d7f169",
+    "name": "section",
+    "supercategory": null
+  },
+  {
+    "id": 7,
+    "datatorch_id": "c1476f39-61f4-4d14-aa6c-854147755b0c",
+    "name": "abstract",
+    "supercategory": null
+  },
+  {
+    "id": 8,
+    "datatorch_id": "57dbb076-ab58-4d27-9e58-e46a49f0d054",
+    "name": "summary",
+    "supercategory": null
+  },
+  {
+    "id": 9,
+    "datatorch_id": "8df26dfe-b64f-47d7-9e87-8f657a23169e",
+    "name": "subsection",
+    "supercategory": null
+  },
+  {
+    "id": 10,
+    "datatorch_id": "9d18300d-3af8-493e-bbbc-04abe5886245",
+    "name": "subsubsection",
+    "supercategory": "8df26dfe-b64f-47d7-9e87-8f657a23169e"
+  },
+  {
+    "id": 11,
+    "datatorch_id": "61ce44b5-757c-4503-aa82-3c977186654d",
+    "name": "subsubsubsection",
+    "supercategory": "9d18300d-3af8-493e-bbbc-04abe5886245"
+  },
+  {
+    "id": 12,
+    "datatorch_id": "5ff93b9a-53c2-4fb4-9bd6-f4c4d381f6d9",
+    "name": "subsubsubsubsection",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 13,
+    "datatorch_id": "ada3d39b-24bf-4c8b-959e-74bcc99e6567",
+    "name": "table_of_contents",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 14,
+    "datatorch_id": "cc48d96b-ed89-46ee-82c1-35d122cf34c5",
+    "name": "list_of_figures",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 15,
+    "datatorch_id": "f5fbf8a9-6f42-4add-a890-55cab440c11b",
+    "name": "list_of_tables",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 16,
+    "datatorch_id": "8211d611-424c-4ad9-b2aa-d787de7148ce",
+    "name": "figure",
+    "supercategory": "cc48d96b-ed89-46ee-82c1-35d122cf34c5"
+  },
+  {
+    "id": 17,
+    "datatorch_id": "9fa9ee90-b109-4053-b5d7-4731e397eaf5",
+    "name": "figure_caption",
+    "supercategory": "8211d611-424c-4ad9-b2aa-d787de7148ce"
+  },
+  {
+    "id": 18,
+    "datatorch_id": "31b128d7-a84f-4cb8-8be0-dc1928eef7db",
+    "name": "table",
+    "supercategory": null
+  },
+  {
+    "id": 19,
+    "datatorch_id": "39dd6ec9-ca96-4590-938b-21b5085128ca",
+    "name": "table_caption",
+    "supercategory": "31b128d7-a84f-4cb8-8be0-dc1928eef7db"
+  },
+  {
+    "id": 20,
+    "datatorch_id": "fdebbace-ea39-41c4-8e20-96e7bf3b45ca",
+    "name": "cross",
+    "supercategory": null
+  },
+  {
+    "id": 21,
+    "datatorch_id": "86d8cf26-1fdd-4799-9ba7-e91e5e20dab0",
+    "name": "form_title",
+    "supercategory": null
+  },
+  {
+    "id": 22,
+    "datatorch_id": "898b06f7-cf74-4440-bf8c-ba81d876e511",
+    "name": "form_body",
+    "supercategory": "86d8cf26-1fdd-4799-9ba7-e91e5e20dab0"
+  },
+  {
+    "id": 23,
+    "datatorch_id": "33f1670f-a6e1-4c81-ae8b-ebb4cc1aae25",
+    "name": "list",
+    "supercategory": null
+  },
+  {
+    "id": 24,
+    "datatorch_id": "018c6ce5-d2ed-4ad5-b78e-083d2d4809bc",
+    "name": "appendix_list",
+    "supercategory": null
+  },
+  {
+    "id": 25,
+    "datatorch_id": "a995b313-f828-4109-8a38-d1781160ae5c",
+    "name": "references",
+    "supercategory": null
+  }
+],"images": [
+  {
+    "id": 1,
+    "datatorch_id": "a7293bb2-465a-4957-aec6-3ca800b29dfb",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748654.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748654.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.827Z"
+  },
+  {
+    "id": 2,
+    "datatorch_id": "831e7166-1247-4baf-a935-d579649793cc",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748659.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748659.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.718Z"
+  },
+  {
+    "id": 3,
+    "datatorch_id": "cfed2f4d-00e0-495f-875a-61af1b1f2171",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_1057486511.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_1057486511.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.718Z"
+  },
+  {
+    "id": 4,
+    "datatorch_id": "cafed1c2-fcb2-4753-9124-45731ba76c71",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_1057486512.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_1057486512.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.812Z"
+  },
+  {
+    "id": 5,
+    "datatorch_id": "65c2d7c0-57f5-4f0f-9531-f3ab15ee474d",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_1057486510.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_1057486510.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.812Z"
+  },
+  {
+    "id": 6,
+    "datatorch_id": "226043a8-ff32-457e-82cb-7215ae076889",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748652.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748652.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:27.671Z"
+  },
+  {
+    "id": 7,
+    "datatorch_id": "960fe7bc-d21a-45cd-87eb-f7818d3542cc",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748655.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748655.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.812Z"
+  },
+  {
+    "id": 8,
+    "datatorch_id": "e60df673-ba08-46dc-8330-d3fecbdf1518",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748651.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748651.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:25.952Z"
+  },
+  {
+    "id": 9,
+    "datatorch_id": "10d99177-80c4-40b9-b204-108ddfdc246b",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748657.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748657.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.827Z"
+  },
+  {
+    "id": 10,
+    "datatorch_id": "57e5bce5-54ff-4445-bc17-b8444e82ac87",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_1057486513.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_1057486513.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:27.702Z"
+  },
+  {
+    "id": 11,
+    "datatorch_id": "0fd238dd-ba7d-44e0-b4ca-bea14fa58242",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_1057486516.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_1057486516.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.796Z"
+  },
+  {
+    "id": 12,
+    "datatorch_id": "c1ec5dd9-658d-4f77-8ea1-c818027166e6",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748656.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748656.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.671Z"
+  },
+  {
+    "id": 13,
+    "datatorch_id": "a9b1926a-89a2-49a3-ab64-3959eed13dab",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748658.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748658.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.765Z"
+  },
+  {
+    "id": 14,
+    "datatorch_id": "8b6a6aed-34e2-4b50-951c-562d22226c33",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_1057486514.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_1057486514.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.781Z"
+  },
+  {
+    "id": 15,
+    "datatorch_id": "d3c45d5f-7c7b-4d3c-a7cb-c75404662185",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_105748653.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_105748653.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.781Z"
+  },
+  {
+    "id": 16,
+    "datatorch_id": "1f94bfc4-6655-4058-84ea-c727116f5333",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078780_e53-1265 - lake maitland west_1057486515.png",
+    "width": 2479,
+    "height": 3508,
+    "file_name": "a078780_e53-1265 - lake maitland west_1057486515.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T09:18:36.827Z"
+  }
+],"annotations": [
+{"id":1,"datatorch_id":"174d4c4e-e832-4f36-8310-c81821007bd5","image_id":3,"category_id":18,"segmentation":[[285.67889376777,1320.63113819314,2306.28689376777,1320.63113819314,2306.28689376777,2437.81360525901,285.67889376777,2437.81360525901]],"area":2257387.83,"bbox":[285.67889376777,1320.63113819314,2020.608,1117.18246706587],"iscrowd":0,"metadata":{}},
+{"id":2,"datatorch_id":"1bb362dc-909b-49a7-8a02-0c0435f0932d","image_id":3,"category_id":19,"segmentation":[[346.176139276753,1196.57348431803,1693.248139276753,1196.57348431803,1693.248139276753,1312.5648387919412,346.176139276753,1312.5648387919412]],"area":156248.71,"bbox":[346.176139276753,1196.57348431803,1347.072,115.991354473911],"iscrowd":0,"metadata":{}},
+{"id":3,"datatorch_id":"36ec6737-a8b5-457a-9312-98086c60f91a","image_id":6,"category_id":13,"segmentation":[[244.179076449768,204.688580248836,2334.963881240188,204.688580248836,2334.963881240188,2560.306126979376,244.179076449768,2560.306126979376]],"area":4925089.37,"bbox":[244.179076449768,204.688580248836,2090.78480479042,2355.61754673054],"iscrowd":0,"metadata":{}},
+{"id":4,"datatorch_id":"3e27a1b3-2f06-49ec-b31b-042e608e391f","image_id":3,"category_id":5,"segmentation":[[323.976885163008,1092.03424407851,1520.3704123486382,1092.03424407851,1520.3704123486382,1196.573484318031,323.976885163008,1196.573484318031]],"area":125070.07,"bbox":[323.976885163008,1092.03424407851,1196.39352718563,104.539240239521],"iscrowd":0,"metadata":{}},
+{"id":5,"datatorch_id":"502b738d-76de-4c2a-8853-f1ad2ba7b4f3","image_id":12,"category_id":6,"segmentation":[[334.097103393214,1889.91897126414,891.6397180039919,1889.91897126414,891.6397180039919,2023.496889347972,334.097103393214,2023.496889347972]],"area":74475.38,"bbox":[334.097103393214,1889.91897126414,557.542614610778,133.577918083832],"iscrowd":0,"metadata":{}},
+{"id":6,"datatorch_id":"61cfa2d2-2a7d-4892-afdf-6720efb564d6","image_id":15,"category_id":5,"segmentation":[[339.87347001996,365.500491874108,2366.7731835528903,365.500491874108,2366.7731835528903,754.61877498788,339.87347001996,754.61877498788]],"area":788703.74,"bbox":[339.87347001996,365.500491874108,2026.89971353293,389.118283113772],"iscrowd":0,"metadata":{}},
+{"id":7,"datatorch_id":"63aba2b1-cb86-4d64-a6a1-63200ce01f44","image_id":13,"category_id":9,"segmentation":[[305.589019965131,1725.15848640694,881.949607052736,1725.15848640694,881.949607052736,1841.988335140914,305.589019965131,1841.988335140914]],"area":67336.12,"bbox":[305.589019965131,1725.15848640694,576.360587087605,116.829848733974],"iscrowd":0,"metadata":{}},
+{"id":8,"datatorch_id":"63b5ec51-c3ec-4786-be1c-3675662c2045","image_id":10,"category_id":24,"segmentation":[[892.231556976528,1274.17155595382,1800.157039345124,1274.17155595382,1800.157039345124,1586.927377643773,892.231556976528,1586.927377643773]],"area":283958.98,"bbox":[892.231556976528,1274.17155595382,907.925482368596,312.755821689953],"iscrowd":0,"metadata":{}},
+{"id":9,"datatorch_id":"7034609c-87c0-4361-a873-f9248206dcd4","image_id":14,"category_id":5,"segmentation":[[309.32464258606,251.099484329237,1884.38252886151,251.099484329237,1884.38252886151,3080.628253478937,309.32464258606,3080.628253478937]],"area":4456671.6,"bbox":[309.32464258606,251.099484329237,1575.05788627545,2829.5287691497],"iscrowd":0,"metadata":{}},
+{"id":10,"datatorch_id":"98fcb7c6-9d28-4a5f-bc4e-0490f13aa911","image_id":12,"category_id":5,"segmentation":[[339.904838962076,2023.49688934797,2372.612288063876,2023.49688934797,2372.612288063876,2941.119109228209,339.904838962076,2941.119109228209]],"area":1865257.52,"bbox":[339.904838962076,2023.49688934797,2032.7074491018,917.622219880239],"iscrowd":0,"metadata":{}},
+{"id":11,"datatorch_id":"a16331e4-9481-45d6-9532-8fb977655b5c","image_id":3,"category_id":5,"segmentation":[[300.745942887559,400.913711383899,2362.492069833669,400.913711383899,2362.492069833669,952.648590425815,300.745942887559,952.648590425815]],"area":1137537.25,"bbox":[300.745942887559,400.913711383899,2061.74612694611,551.734879041916],"iscrowd":0,"metadata":{}},
+{"id":12,"datatorch_id":"b33a908f-1a54-4b46-a584-2fa7ae1eac27","image_id":8,"category_id":3,"segmentation":[[285.17126312708,1452.27741597472,2015.87646264804,1452.27741597472,2015.87646264804,2247.937188908851,285.17126312708,2247.937188908851]],"area":1377052.51,"bbox":[285.17126312708,1452.27741597472,1730.70519952096,795.659772934131],"iscrowd":0,"metadata":{}},
+{"id":13,"datatorch_id":"eb4f19d1-5852-42a4-886a-e8bf744373ef","image_id":13,"category_id":5,"segmentation":[[328.954989711926,1841.98833514091,2369.583014265336,1841.98833514091,2369.583014265336,2613.065336785139,328.954989711926,2613.065336785139]],"area":1573481.34,"bbox":[328.954989711926,1841.98833514091,2040.62802455341,771.077001644229],"iscrowd":0,"metadata":{}},
+{"id":14,"datatorch_id":"f0adf65a-3b22-42d9-8be8-813f02ec4bc5","image_id":3,"category_id":6,"segmentation":[[300.745942887559,944.65714628306,1229.381465216766,944.65714628306,1229.381465216766,1092.034244078509,300.745942887559,1092.034244078509]],"area":136859.61,"bbox":[300.745942887559,944.65714628306,928.635522329207,147.377097795449],"iscrowd":0,"metadata":{}},
+{"id":15,"datatorch_id":"f78cc179-ce41-4c92-b794-fc0e20cac086","image_id":8,"category_id":1,"segmentation":[[523.288421450433,488.193311543579,1986.837784803723,488.193311543579,1986.837784803723,1405.815531423818,523.288421450433,1405.815531423818]],"area":1342985.42,"bbox":[523.288421450433,488.193311543579,1463.54936335329,917.622219880239],"iscrowd":0,"metadata":{}},
+{"id":16,"datatorch_id":"fa53288a-291f-4c18-9202-187651279eab","image_id":3,"category_id":9,"segmentation":[[316.126662484311,252.189218936474,717.5573450040711,252.189218936474,717.5573450040711,400.913711383899,316.126662484311,400.913711383899]],"area":59702.57,"bbox":[316.126662484311,252.189218936474,401.43068251976,148.724492447425],"iscrowd":0,"metadata":{}},
+{"id":17,"datatorch_id":"ffd67fa4-58f5-4b40-9fc1-8c29b632fca0","image_id":15,"category_id":6,"segmentation":[[328.257998882235,272.576722772312,1362.034930139715,272.576722772312,1362.034930139715,365.5004918741084,328.257998882235,365.5004918741084]],"area":96062.45,"bbox":[328.257998882235,272.576722772312,1033.77693125748,92.9237691017964],"iscrowd":0,"metadata":{}}
+]}

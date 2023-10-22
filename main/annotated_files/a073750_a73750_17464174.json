@@ -1,0 +1,225 @@
+{"info": {"year":2023,"version":"0.1.0","description":"","url":"","date_created":1694426739767},"categories": [
+  {
+    "id": 1,
+    "datatorch_id": "a995b313-f828-4109-8a38-d1781160ae5c",
+    "name": "references",
+    "supercategory": null
+  },
+  {
+    "id": 2,
+    "datatorch_id": "018c6ce5-d2ed-4ad5-b78e-083d2d4809bc",
+    "name": "appendix_list",
+    "supercategory": null
+  },
+  {
+    "id": 3,
+    "datatorch_id": "33f1670f-a6e1-4c81-ae8b-ebb4cc1aae25",
+    "name": "list",
+    "supercategory": null
+  },
+  {
+    "id": 4,
+    "datatorch_id": "898b06f7-cf74-4440-bf8c-ba81d876e511",
+    "name": "form_body",
+    "supercategory": "86d8cf26-1fdd-4799-9ba7-e91e5e20dab0"
+  },
+  {
+    "id": 5,
+    "datatorch_id": "86d8cf26-1fdd-4799-9ba7-e91e5e20dab0",
+    "name": "form_title",
+    "supercategory": null
+  },
+  {
+    "id": 6,
+    "datatorch_id": "fdebbace-ea39-41c4-8e20-96e7bf3b45ca",
+    "name": "cross",
+    "supercategory": null
+  },
+  {
+    "id": 7,
+    "datatorch_id": "39dd6ec9-ca96-4590-938b-21b5085128ca",
+    "name": "table_caption",
+    "supercategory": "31b128d7-a84f-4cb8-8be0-dc1928eef7db"
+  },
+  {
+    "id": 8,
+    "datatorch_id": "31b128d7-a84f-4cb8-8be0-dc1928eef7db",
+    "name": "table",
+    "supercategory": null
+  },
+  {
+    "id": 9,
+    "datatorch_id": "9fa9ee90-b109-4053-b5d7-4731e397eaf5",
+    "name": "figure_caption",
+    "supercategory": "8211d611-424c-4ad9-b2aa-d787de7148ce"
+  },
+  {
+    "id": 10,
+    "datatorch_id": "8211d611-424c-4ad9-b2aa-d787de7148ce",
+    "name": "figure",
+    "supercategory": "cc48d96b-ed89-46ee-82c1-35d122cf34c5"
+  },
+  {
+    "id": 11,
+    "datatorch_id": "f5fbf8a9-6f42-4add-a890-55cab440c11b",
+    "name": "list_of_tables",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 12,
+    "datatorch_id": "cc48d96b-ed89-46ee-82c1-35d122cf34c5",
+    "name": "list_of_figures",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 13,
+    "datatorch_id": "ada3d39b-24bf-4c8b-959e-74bcc99e6567",
+    "name": "table_of_contents",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 14,
+    "datatorch_id": "5ff93b9a-53c2-4fb4-9bd6-f4c4d381f6d9",
+    "name": "subsubsubsubsection",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 15,
+    "datatorch_id": "61ce44b5-757c-4503-aa82-3c977186654d",
+    "name": "subsubsubsection",
+    "supercategory": "9d18300d-3af8-493e-bbbc-04abe5886245"
+  },
+  {
+    "id": 16,
+    "datatorch_id": "9d18300d-3af8-493e-bbbc-04abe5886245",
+    "name": "subsubsection",
+    "supercategory": "8df26dfe-b64f-47d7-9e87-8f657a23169e"
+  },
+  {
+    "id": 17,
+    "datatorch_id": "8df26dfe-b64f-47d7-9e87-8f657a23169e",
+    "name": "subsection",
+    "supercategory": null
+  },
+  {
+    "id": 18,
+    "datatorch_id": "57dbb076-ab58-4d27-9e58-e46a49f0d054",
+    "name": "summary",
+    "supercategory": null
+  },
+  {
+    "id": 19,
+    "datatorch_id": "c1476f39-61f4-4d14-aa6c-854147755b0c",
+    "name": "abstract",
+    "supercategory": null
+  },
+  {
+    "id": 20,
+    "datatorch_id": "f49d3973-196f-469b-8766-84d8b0d7f169",
+    "name": "section",
+    "supercategory": null
+  },
+  {
+    "id": 21,
+    "datatorch_id": "b7ea5771-b8d4-436e-8f14-992e2ae268ca",
+    "name": "paragraph",
+    "supercategory": null
+  },
+  {
+    "id": 22,
+    "datatorch_id": "6ecfe82f-124a-42ba-9962-1af289bfa7e6",
+    "name": "title",
+    "supercategory": null
+  },
+  {
+    "id": 23,
+    "datatorch_id": "66c08801-8b8f-4668-90ce-4ec97989a8b2",
+    "name": "other",
+    "supercategory": null
+  },
+  {
+    "id": 24,
+    "datatorch_id": "37671155-f749-4b19-a8b4-de01bacc16d5",
+    "name": "form",
+    "supercategory": null
+  },
+  {
+    "id": 25,
+    "datatorch_id": "f78eafb3-537d-47d8-bb11-f0ec530b6ff2",
+    "name": "report_title",
+    "supercategory": null
+  }
+],"images": [
+  {
+    "id": 1,
+    "datatorch_id": "91826874-9abe-4e17-9606-47527f7f18e2",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a073750_a73750_174641741.png",
+    "width": 2471,
+    "height": 3500,
+    "file_name": "a073750_a73750_174641741.png",
+    "metadata": {},
+    "date_captured": "2023-09-11T10:02:43.676Z"
+  },
+  {
+    "id": 2,
+    "datatorch_id": "c18550ab-a6f4-4e43-8028-4b6049a37e9d",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a073750_a73750_174641743.png",
+    "width": 2471,
+    "height": 3496,
+    "file_name": "a073750_a73750_174641743.png",
+    "metadata": {},
+    "date_captured": "2023-09-11T10:02:43.473Z"
+  },
+  {
+    "id": 3,
+    "datatorch_id": "49f86b67-05a9-4293-9faa-2271bb5e1e6b",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a073750_a73750_174641742.png",
+    "width": 2471,
+    "height": 3483,
+    "file_name": "a073750_a73750_174641742.png",
+    "metadata": {},
+    "date_captured": "2023-09-11T10:02:43.723Z"
+  },
+  {
+    "id": 4,
+    "datatorch_id": "9fd0fd04-6490-4615-901c-e6ece58268a0",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a073750_a73750_174641745.png",
+    "width": 3492,
+    "height": 2467,
+    "file_name": "a073750_a73750_174641745.png",
+    "metadata": {},
+    "date_captured": "2023-09-11T10:02:48.614Z"
+  },
+  {
+    "id": 5,
+    "datatorch_id": "bf1cd773-19dd-470f-999a-d2087a552b51",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a073750_a73750_174641744.png",
+    "width": 3500,
+    "height": 2467,
+    "file_name": "a073750_a73750_174641744.png",
+    "metadata": {},
+    "date_captured": "2023-09-11T10:02:48.567Z"
+  }
+],"annotations": [
+{"id":1,"datatorch_id":"1d6a88bf-6abe-4dfa-a1fa-d8bd4e298fbf","image_id":3,"category_id":17,"segmentation":[[341.212428263474,876.614376691617,825.5855214371261,876.614376691617,825.5855214371261,1026.539381721557,341.212428263474,1026.539381721557]],"area":72619.64,"bbox":[341.212428263474,876.614376691617,484.373093173652,149.92500502994],"iscrowd":0,"metadata":{}},
+{"id":2,"datatorch_id":"2059c104-e851-4ead-9b41-cbad0c277a42","image_id":4,"category_id":23,"segmentation":[[0.546571397319753,18.5049288964679,3474.1152084350797,18.5049288964679,3474.1152084350797,2431.587345851398,0.546571397319753,2431.587345851398]],"area":8382007.4,"bbox":[0.546571397319753,18.5049288964679,3473.56863703776,2413.08241695493],"iscrowd":0,"metadata":{}},
+{"id":3,"datatorch_id":"28e310d4-fd09-43cd-9925-7e591cc093a4","image_id":5,"category_id":23,"segmentation":[[28.2661439741061,51.1243875844974,3487.177377531636,51.1243875844974,3487.177377531636,2433.3317352097274,28.2661439741061,2433.3317352097274]],"area":8239843.76,"bbox":[28.2661439741061,51.1243875844974,3458.91123355753,2382.20734762523],"iscrowd":0,"metadata":{}},
+{"id":4,"datatorch_id":"65e929ca-eca5-4c9b-83b3-b04944483360","image_id":3,"category_id":20,"segmentation":[[335.446081916168,749.754757050899,767.922057964072,749.754757050899,767.922057964072,876.614376691618,335.446081916168,876.614376691618]],"area":54863.74,"bbox":[335.446081916168,749.754757050899,432.475976047904,126.859619640719],"iscrowd":0,"metadata":{}},
+{"id":5,"datatorch_id":"7ff9bdcc-a8e7-4c98-a19b-d8c731f48b52","image_id":3,"category_id":21,"segmentation":[[335.446081916168,1620.47305549401,2180.6769130538883,1620.47305549401,2180.6769130538883,1833.8278703443088,335.446081916168,1833.8278703443088]],"area":393688.88,"bbox":[335.446081916168,1620.47305549401,1845.23083113772,213.354814850299],"iscrowd":0,"metadata":{}},
+{"id":6,"datatorch_id":"80015a6f-706e-4e1b-a69a-d78bb2be4add","image_id":3,"category_id":17,"segmentation":[[370.044160000001,1851.12690938623,1356.089385389222,1851.12690938623,1356.089385389222,1966.453836332338,370.044160000001,1966.453836332338]],"area":113717.57,"bbox":[370.044160000001,1851.12690938623,986.045225389221,115.326926946108],"iscrowd":0,"metadata":{}},
+{"id":7,"datatorch_id":"9cb72872-f368-4102-83a5-23eb874d7af9","image_id":1,"category_id":23,"segmentation":[[50.7211113772445,11.3469199401213,2268.852273053895,11.3469199401213,2268.852273053895,1262.9569798203613,50.7211113772445,1262.9569798203613]],"area":2776235.28,"bbox":[50.7211113772445,11.3469199401213,2218.13116167665,1251.61005988024],"iscrowd":0,"metadata":{}},
+{"id":8,"datatorch_id":"ae43062f-96be-431e-9715-b0d7966c5140","image_id":3,"category_id":21,"segmentation":[[358.51146730539,2641.11635896707,2169.14422035928,2641.11635896707,2169.14422035928,3096.657720404195,358.51146730539,3096.657720404195]],"area":824818.11,"bbox":[358.51146730539,2641.11635896707,1810.63275305389,455.541361437125],"iscrowd":0,"metadata":{}},
+{"id":9,"datatorch_id":"ae7b31a3-243a-4969-a746-3933bd40bb77","image_id":3,"category_id":21,"segmentation":[[370.044160000001,1966.45383633234,2169.144220359281,1966.45383633234,2169.144220359281,2502.7240466317407,370.044160000001,2502.7240466317407]],"area":964803.77,"bbox":[370.044160000001,1966.45383633234,1799.10006035928,536.270210299401],"iscrowd":0,"metadata":{}},
+{"id":10,"datatorch_id":"b452489f-5f5e-49e4-a212-9461e0fe4b3f","image_id":3,"category_id":20,"segmentation":[[341.212428263474,2520.02308567365,762.155711616767,2520.02308567365,762.155711616767,2641.1163589670628,341.212428263474,2641.1163589670628]],"area":50973.4,"bbox":[341.212428263474,2520.02308567365,420.943283353293,121.093273293413],"iscrowd":0,"metadata":{}},
+{"id":11,"datatorch_id":"c0ac8471-a8ac-494c-9e1a-fdfee34603eb","image_id":1,"category_id":25,"segmentation":[[345.467554491017,1282.85139898204,2170.732225149697,1282.85139898204,2170.732225149697,1616.0346325149742,345.467554491017,1616.0346325149742]],"area":608147.59,"bbox":[345.467554491017,1282.85139898204,1825.26467065868,333.183233532934],"iscrowd":0,"metadata":{}},
+{"id":12,"datatorch_id":"cf5766c3-7bf7-429f-8b8b-877d6e62bfa1","image_id":1,"category_id":23,"segmentation":[[64.6278898203583,1631.48660856288,2241.038716167658,1631.48660856288,2241.038716167658,3460.22797383234,64.6278898203583,3460.22797383234]],"area":3980092.51,"bbox":[64.6278898203583,1631.48660856288,2176.4108263473,1828.74136526946],"iscrowd":0,"metadata":{}},
+{"id":13,"datatorch_id":"eb425b9e-c44e-4248-b1af-0db564448b92","image_id":3,"category_id":17,"segmentation":[[329.679735568863,1453.24901142216,865.949945868264,1453.24901142216,865.949945868264,1545.5105529790462,329.679735568863,1545.5105529790462]],"area":49477.12,"bbox":[329.679735568863,1453.24901142216,536.270210299401,92.2615415568862],"iscrowd":0,"metadata":{}},
+{"id":14,"datatorch_id":"f02ba5e7-6b8b-4a5b-97ec-ef5e4e1e66fa","image_id":3,"category_id":18,"segmentation":[[283.54896479042,323.0451273503,2088.41537149701,323.0451273503,2088.41537149701,749.754757050899,283.54896479042,749.754757050899]],"area":770153.88,"bbox":[283.54896479042,323.0451273503,1804.86640670659,426.709629700599],"iscrowd":0,"metadata":{}},
+{"id":15,"datatorch_id":"f93f4240-eeb2-4ba6-8b72-89370c7d39c7","image_id":2,"category_id":21,"segmentation":[[299.074419161677,430.605931137724,2268.557532934137,430.605931137724,2268.557532934137,1338.979775449101,299.074419161677,1338.979775449101]],"area":1789026.95,"bbox":[299.074419161677,430.605931137724,1969.48311377246,908.373844311377],"iscrowd":0,"metadata":{}},
+{"id":16,"datatorch_id":"fca97461-4905-437c-b6d4-f4d4c4313bcd","image_id":3,"category_id":21,"segmentation":[[341.212428263474,1026.53938172156,2169.1442203592837,1026.53938172156,2169.1442203592837,1424.417279685632,341.212428263474,1424.417279685632]],"area":727293.66,"bbox":[341.212428263474,1026.53938172156,1827.93179209581,397.877897964072],"iscrowd":0,"metadata":{}}
+]}

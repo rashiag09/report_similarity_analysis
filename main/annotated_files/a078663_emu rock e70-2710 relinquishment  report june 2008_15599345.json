@@ -1,0 +1,332 @@
+{"info": {"year":2023,"version":"0.1.0","description":"","url":"","date_created":1694681832236},"categories": [
+  {
+    "id": 1,
+    "datatorch_id": "f78eafb3-537d-47d8-bb11-f0ec530b6ff2",
+    "name": "report_title",
+    "supercategory": null
+  },
+  {
+    "id": 2,
+    "datatorch_id": "37671155-f749-4b19-a8b4-de01bacc16d5",
+    "name": "form",
+    "supercategory": null
+  },
+  {
+    "id": 3,
+    "datatorch_id": "66c08801-8b8f-4668-90ce-4ec97989a8b2",
+    "name": "other",
+    "supercategory": null
+  },
+  {
+    "id": 4,
+    "datatorch_id": "6ecfe82f-124a-42ba-9962-1af289bfa7e6",
+    "name": "title",
+    "supercategory": null
+  },
+  {
+    "id": 5,
+    "datatorch_id": "b7ea5771-b8d4-436e-8f14-992e2ae268ca",
+    "name": "paragraph",
+    "supercategory": null
+  },
+  {
+    "id": 6,
+    "datatorch_id": "f49d3973-196f-469b-8766-84d8b0d7f169",
+    "name": "section",
+    "supercategory": null
+  },
+  {
+    "id": 7,
+    "datatorch_id": "c1476f39-61f4-4d14-aa6c-854147755b0c",
+    "name": "abstract",
+    "supercategory": null
+  },
+  {
+    "id": 8,
+    "datatorch_id": "57dbb076-ab58-4d27-9e58-e46a49f0d054",
+    "name": "summary",
+    "supercategory": null
+  },
+  {
+    "id": 9,
+    "datatorch_id": "8df26dfe-b64f-47d7-9e87-8f657a23169e",
+    "name": "subsection",
+    "supercategory": null
+  },
+  {
+    "id": 10,
+    "datatorch_id": "9d18300d-3af8-493e-bbbc-04abe5886245",
+    "name": "subsubsection",
+    "supercategory": "8df26dfe-b64f-47d7-9e87-8f657a23169e"
+  },
+  {
+    "id": 11,
+    "datatorch_id": "61ce44b5-757c-4503-aa82-3c977186654d",
+    "name": "subsubsubsection",
+    "supercategory": "9d18300d-3af8-493e-bbbc-04abe5886245"
+  },
+  {
+    "id": 12,
+    "datatorch_id": "5ff93b9a-53c2-4fb4-9bd6-f4c4d381f6d9",
+    "name": "subsubsubsubsection",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 13,
+    "datatorch_id": "ada3d39b-24bf-4c8b-959e-74bcc99e6567",
+    "name": "table_of_contents",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 14,
+    "datatorch_id": "cc48d96b-ed89-46ee-82c1-35d122cf34c5",
+    "name": "list_of_figures",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 15,
+    "datatorch_id": "f5fbf8a9-6f42-4add-a890-55cab440c11b",
+    "name": "list_of_tables",
+    "supercategory": "61ce44b5-757c-4503-aa82-3c977186654d"
+  },
+  {
+    "id": 16,
+    "datatorch_id": "8211d611-424c-4ad9-b2aa-d787de7148ce",
+    "name": "figure",
+    "supercategory": "cc48d96b-ed89-46ee-82c1-35d122cf34c5"
+  },
+  {
+    "id": 17,
+    "datatorch_id": "9fa9ee90-b109-4053-b5d7-4731e397eaf5",
+    "name": "figure_caption",
+    "supercategory": "8211d611-424c-4ad9-b2aa-d787de7148ce"
+  },
+  {
+    "id": 18,
+    "datatorch_id": "31b128d7-a84f-4cb8-8be0-dc1928eef7db",
+    "name": "table",
+    "supercategory": null
+  },
+  {
+    "id": 19,
+    "datatorch_id": "39dd6ec9-ca96-4590-938b-21b5085128ca",
+    "name": "table_caption",
+    "supercategory": "31b128d7-a84f-4cb8-8be0-dc1928eef7db"
+  },
+  {
+    "id": 20,
+    "datatorch_id": "fdebbace-ea39-41c4-8e20-96e7bf3b45ca",
+    "name": "cross",
+    "supercategory": null
+  },
+  {
+    "id": 21,
+    "datatorch_id": "86d8cf26-1fdd-4799-9ba7-e91e5e20dab0",
+    "name": "form_title",
+    "supercategory": null
+  },
+  {
+    "id": 22,
+    "datatorch_id": "898b06f7-cf74-4440-bf8c-ba81d876e511",
+    "name": "form_body",
+    "supercategory": "86d8cf26-1fdd-4799-9ba7-e91e5e20dab0"
+  },
+  {
+    "id": 23,
+    "datatorch_id": "33f1670f-a6e1-4c81-ae8b-ebb4cc1aae25",
+    "name": "list",
+    "supercategory": null
+  },
+  {
+    "id": 24,
+    "datatorch_id": "018c6ce5-d2ed-4ad5-b78e-083d2d4809bc",
+    "name": "appendix_list",
+    "supercategory": null
+  },
+  {
+    "id": 25,
+    "datatorch_id": "a995b313-f828-4109-8a38-d1781160ae5c",
+    "name": "references",
+    "supercategory": null
+  }
+],"images": [
+  {
+    "id": 1,
+    "datatorch_id": "ac0bc617-4fae-4689-9cbb-bb603b22a8cb",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-08.png",
+    "width": 4853,
+    "height": 4079,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-08.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:41.224Z"
+  },
+  {
+    "id": 2,
+    "datatorch_id": "1f177d6e-b65e-45d4-a406-140f59a4a2c5",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-05.png",
+    "width": 1653,
+    "height": 2339,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-05.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:41.270Z"
+  },
+  {
+    "id": 3,
+    "datatorch_id": "fce5e538-af6c-454e-a28b-d922a0a812a4",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-01.png",
+    "width": 1654,
+    "height": 2339,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-01.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:38.395Z"
+  },
+  {
+    "id": 4,
+    "datatorch_id": "b14a21c6-ce2d-4bf9-b6b6-a0147f64c2d5",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-03.png",
+    "width": 1654,
+    "height": 2339,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-03.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:40.755Z"
+  },
+  {
+    "id": 5,
+    "datatorch_id": "9b6c3367-a7af-4361-a1f0-8e5713e1a906",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-02.png",
+    "width": 1654,
+    "height": 2339,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-02.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:40.755Z"
+  },
+  {
+    "id": 6,
+    "datatorch_id": "9a867a6a-df93-43b4-b49f-2dcc68dda6df",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-15.png",
+    "width": 2339,
+    "height": 1654,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-15.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:40.489Z"
+  },
+  {
+    "id": 7,
+    "datatorch_id": "7bd7b856-0d57-4f24-983e-ec32716386ed",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-04.png",
+    "width": 1654,
+    "height": 2339,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-04.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:38.114Z"
+  },
+  {
+    "id": 8,
+    "datatorch_id": "578e777c-a0d1-44aa-8a7a-88f040df8bde",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-11.png",
+    "width": 4829,
+    "height": 4103,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-11.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:41.270Z"
+  },
+  {
+    "id": 9,
+    "datatorch_id": "5f2047f3-5502-49e4-98ff-ffdbfbc570ed",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-07.png",
+    "width": 4841,
+    "height": 4091,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-07.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:41.958Z"
+  },
+  {
+    "id": 10,
+    "datatorch_id": "cc8fce54-e6c0-4b70-af14-c119c7b9ad6f",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-13.png",
+    "width": 6620,
+    "height": 4675,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-13.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:52:02.115Z"
+  },
+  {
+    "id": 11,
+    "datatorch_id": "6a19fdba-ffb0-4016-9f90-cbe7c114018e",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-14.png",
+    "width": 6620,
+    "height": 4675,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-14.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:52:08.068Z"
+  },
+  {
+    "id": 12,
+    "datatorch_id": "f9219435-e96f-4b81-95d0-c8e6b8430cc2",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-06.png",
+    "width": 4829,
+    "height": 4091,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-06.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:41.270Z"
+  },
+  {
+    "id": 13,
+    "datatorch_id": "249b3702-b6a7-43f7-b48b-5a128f8617fb",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-10.png",
+    "width": 4841,
+    "height": 4091,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-10.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:41.958Z"
+  },
+  {
+    "id": 14,
+    "datatorch_id": "430c3b19-fcd6-4e3c-a867-879136159281",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-09.png",
+    "width": 4841,
+    "height": 4103,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-09.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:51:41.989Z"
+  },
+  {
+    "id": 15,
+    "datatorch_id": "0b097f61-dde3-4910-8620-cc009cdcd78f",
+    "storage_id": "0ee93786-5682-46e9-ad1d-1c42d2dd5fe4",
+    "path": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-12.png",
+    "width": 6620,
+    "height": 4675,
+    "file_name": "a078663_emu rock e70-2710 relinquishment  report june 2008_15599345-12.png",
+    "metadata": {},
+    "date_captured": "2023-09-14T08:52:09.209Z"
+  }
+],"annotations": [
+{"id":1,"datatorch_id":"1b92bb98-59b1-4915-985a-9c0622988e4d","image_id":5,"category_id":13,"segmentation":[[173.884409048082,191.42003871879,1473.143859912752,191.42003871879,1473.143859912752,514.840846230167,173.884409048082,514.840846230167]],"area":420207.54,"bbox":[173.884409048082,191.42003871879,1299.25945086467,323.420807511377],"iscrowd":0,"metadata":{}},
+{"id":2,"datatorch_id":"2cd17e7d-e982-4284-9a00-71be63c4e6d5","image_id":7,"category_id":24,"segmentation":[[235.2588332668,146.368399006987,1455.05713745842,146.368399006987,1455.05713745842,638.160096252496,235.2588332668,638.160096252496]],"area":599886.68,"bbox":[235.2588332668,146.368399006987,1219.79830419162,491.791697245509],"iscrowd":0,"metadata":{}},
+{"id":3,"datatorch_id":"48c9c41c-8308-49b9-83e7-f59d6b9866f0","image_id":4,"category_id":6,"segmentation":[[224.249269192814,150.214739622823,650.210581767664,150.214739622823,650.210581767664,234.1162102815057,224.249269192814,234.1162102815057]],"area":35738.78,"bbox":[224.249269192814,150.214739622823,425.96131257485,83.9014706586827],"iscrowd":0,"metadata":{}},
+{"id":4,"datatorch_id":"60aa3aab-ffe5-4876-90a4-256cfa809349","image_id":6,"category_id":3,"segmentation":[[23.7911342265532,15.8974434595858,2227.3308409257033,15.8974434595858,2227.3308409257033,1584.3687360296258,23.7911342265532,1584.3687360296258]],"area":3456188.77,"bbox":[23.7911342265532,15.8974434595858,2203.53970669915,1568.47129257004],"iscrowd":0,"metadata":{}},
+{"id":5,"datatorch_id":"617d8496-99ba-4770-a267-04fae2ba8307","image_id":4,"category_id":5,"segmentation":[[224.249269192814,234.116210281505,1440.820593743714,234.116210281505,1440.820593743714,1218.3450007006659,224.249269192814,1218.3450007006659]],"area":1197384.52,"bbox":[224.249269192814,234.116210281505,1216.5713245509,984.228790419161],"iscrowd":0,"metadata":{}},
+{"id":6,"datatorch_id":"659fa4f0-8c99-49c9-af3b-f494e02db6c5","image_id":3,"category_id":3,"segmentation":[[232.294294717232,156.065771621757,1390.1345898070522,156.065771621757,1390.1345898070522,496.834821681637,232.294294717232,496.834821681637]],"area":394556.14,"bbox":[232.294294717232,156.065771621757,1157.84029508982,340.76905005988],"iscrowd":0,"metadata":{}},
+{"id":7,"datatorch_id":"8edd4a7e-e905-4c9b-9ea1-80cf59693f29","image_id":4,"category_id":5,"segmentation":[[233.93020811497,1315.15438992222,1424.68569554012,1315.15438992222,1424.68569554012,1589.4476593832978,233.93020811497,1589.4476593832978]],"area":326616.22,"bbox":[233.93020811497,1315.15438992222,1190.75548742515,274.293269461078],"iscrowd":0,"metadata":{}},
+{"id":8,"datatorch_id":"bb538e2a-e6d0-47db-b13c-892aab6bc8ea","image_id":3,"category_id":3,"segmentation":[[185.825787890885,1546.24860084331,720.213616393879,1546.24860084331,720.213616393879,2169.701067430136,185.825787890885,2169.701067430136]],"area":333165.41,"bbox":[185.825787890885,1546.24860084331,534.387828502994,623.452466586826],"iscrowd":0,"metadata":{}},
+{"id":9,"datatorch_id":"bd015581-8dac-4b23-a372-0c80f9484d09","image_id":4,"category_id":9,"segmentation":[[240.384167396407,1595.90161866474,1160.073365001197,1595.90161866474,1160.073365001197,1673.3491300419855,240.384167396407,1673.3491300419855]],"area":71227.64,"bbox":[240.384167396407,1595.90161866474,919.68919760479,77.4475113772455],"iscrowd":0,"metadata":{}},
+{"id":10,"datatorch_id":"ccf767ae-e00b-4ffa-b68f-bf78b0a18ec5","image_id":4,"category_id":9,"segmentation":[[233.93020811497,1240.9338581857,934.184790150898,1240.9338581857,934.184790150898,1315.154389922227,233.93020811497,1315.154389922227]],"area":51973.27,"bbox":[233.93020811497,1240.9338581857,700.254582035928,74.2205317365269],"iscrowd":0,"metadata":{}},
+{"id":11,"datatorch_id":"dbfb3285-c49f-4a26-8b9c-4a44b976199e","image_id":3,"category_id":1,"segmentation":[[201.315290166334,624.623215454092,1436.603096633404,624.623215454092,1436.603096633404,1422.332582639721,201.315290166334,1422.332582639721]],"area":985400.65,"bbox":[201.315290166334,624.623215454092,1235.28780646707,797.709367185629],"iscrowd":0,"metadata":{}},
+{"id":12,"datatorch_id":"e0899928-b3d4-4243-a6f8-10e5ab4a7e23","image_id":4,"category_id":5,"segmentation":[[240.384167396407,1673.34913004198,1431.139654821557,1673.34913004198,1431.139654821557,2179.9849336347943,240.384167396407,2179.9849336347943]],"area":603279.36,"bbox":[240.384167396407,1673.34913004198,1190.75548742515,506.635803592814],"iscrowd":0,"metadata":{}},
+{"id":13,"datatorch_id":"edc91f73-ffd8-4b31-a94a-3ad45d96c7e7","image_id":5,"category_id":24,"segmentation":[[168.30818822892,587.331716879268,1528.90606810437,587.331716879268,1528.90606810437,1200.716006987052,168.30818822892,1200.716006987052]],"area":834569.36,"bbox":[168.30818822892,587.331716879268,1360.59787987545,613.384290107784],"iscrowd":0,"metadata":{}}
+]}
